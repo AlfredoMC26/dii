@@ -1,0 +1,15 @@
+/*******Header CSS*********/
+
+.header-top {
+    display: block;
+    overflow: hidden;
+    padding: 25px;
+    position: static;
+    width: 100%;
+    z-index: 999;
+  }
+  
+  .escudo{
+    margin-top: 18px;
+  width: 82%;
+  }
